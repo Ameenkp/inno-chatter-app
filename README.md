@@ -2,21 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Setup and Run Instructions
 
-In the project directory, you can run:
+- You need to have node v^16.10.0
 
-### `npm start`
-
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Ameenkp/inno-chatter-app.git
+   cd inno-chatter-api
+   ```
+2. **Install Dependencies:**
+   ```bash
+   npm install --silent
+   ```
+3. **Clean & Build Project:**
+   ```bash
+    npm run build
+   ```
