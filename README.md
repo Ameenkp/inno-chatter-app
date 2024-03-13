@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# INNO CHATTER APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with create react app and used online templates
 
 ## Setup and Run Instructions
 
@@ -18,4 +18,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3. **Clean & Build Project:**
    ```bash
     npm run build
+   ```
+4. **run project:**
+   ```bash
+    npm run start
    ```
